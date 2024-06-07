@@ -1,0 +1,100 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "PS5 Game Console",
+            "price": 49900,
+            "imgName":"PS5Console.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "PS5 Game Pad",
+            "price": 8000,
+            "imgName":"Gamepad.webp"
+        },
+        {
+            "id": 3,
+            "name": "PS5 FC24 Game",
+            "price": 5900,
+            "imgName":"FC24Game.webp"
+        },
+        {
+            "id": 4,
+            "name": "PS5 RDR2 Game",
+            "price": 5900,
+            "imgName":"RedDeadRedemption2.webp"
+        },
+        {
+            "id": 5,
+            "name": "PS5 NBA2K24 Game",
+            "price": 5900,
+            "imgName":"NBA2K24Game.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "White T-Shirt",
+            "price": 3900,
+            "imgName":"WhiteTee.webp"
+        },
+        {
+            "id": 7,
+            "name": "Black T-Shirt",
+            "price": 3900,
+            "imgName":"BlackTee.webp"
+        },
+        {
+            "id": 8,
+            "name": "Black Hoodie",
+            "price": 8900,
+            "imgName":"BlackHoodie.webp"
+        },
+        {
+            "id": 9,
+            "name": "Grey Hoodie",
+            "price": 8900,
+            "imgName":"GreyHoodie.jpeg"
+        },
+        {
+            "id": 10,
+            "name": "Levi's 501 Denim",
+            "price": 11900,
+            "imgName":"Levis501.png"
+        },
+        {
+            "id": 11,
+            "name": "Nike Air Shoes",
+            "price": 19900,
+            "imgName":"NikeAirShoes.png"
+        },
+        {
+            "id": 12,
+            "name": "Nike Running Shoes",
+            "price": 14900,
+            "imgName":"NikeRunning.png"
+        },
+        {
+            "id": 13,
+            "name": "Canon Vintage Camera",
+            "price": 229900,
+            "imgName":"RetroCanon.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Nikon Vintage Camera",
+            "price": 229900,
+            "imgName":"RetroNikon.webp"
+        },
+        {
+            "id": 15,
+            "name": "Leica Vintage Camera",
+            "price": 499900,
+            "imgName":"RetroLeica.jpeg"
+        },
+        {
+            "id": 16,
+            "name": "Pentax Vintage Camera",
+            "price": 299000,
+            "imgName":"RetroPentax.jpg"
+        }
+    ]
+}
